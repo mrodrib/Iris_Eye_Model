@@ -6,6 +6,24 @@ A [web application](https://github.com/LorenaDeveloper/Iris-Eye/) has also been 
 
 A balanced dataset (70 images per class) of 11 colors has been used. (available in the repository)
 
+# Table of contents
+* [Iris-Eye](#iris-eye-model)
+* [Table of contents](#table-of-contents)
+* [General info](#general-info)
+* [Spacific info](#specific-info)
+* [Status](#status)
+* [Contact](#contact)
+
+
+# General info
+
+Date: December 2021
+
+Duration: 2 weeks
+
+It's part of _"III CURSO DE EXTENSIÓN UNIVERSITARIA SAMSUNG INNOVATION CAMPUS EN INTELIGENCIA ARTIFICIAL (2021-22)"_ taught by the University of Malaga
+
+# Specific info
 
 We've used a Keras convolutional network optimized with Keras Tuner. As well as a callback function to get best weights training.
 
@@ -37,3 +55,18 @@ The confusion matrix of the model indicates that it has a high level of accuracy
 The main diagonal shows the correctly predicted images for each of the classes (colors) of the test set.
 
 <img width = '500px' src="https://user-images.githubusercontent.com/81416550/147597840-421b0efc-b7af-4225-a8f1-0703396051f0.png">
+
+
+# Setup
+
+Clone/Download repository
+```sh
+https://github.com/LorenaDeveloper/Iris_Eye_Model.git
+```
+
+
+# Status
+Proyect is : _Completed_
+
+# Contact
+Created by [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), fell free to contact me! In collaboration with [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
