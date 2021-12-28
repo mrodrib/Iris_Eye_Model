@@ -10,6 +10,7 @@ A balanced dataset (70 images per class) of 11 colors has been used. (available 
 * [Iris-Eye](#iris-eye-model)
 * [Table of contents](#table-of-contents)
 * [General info](#general-info)
+* [Technologies](#technologies)
 * [Spacific info](#specific-info)
 * [Status](#status)
 * [Contact](#contact)
@@ -22,6 +23,13 @@ Date: December 2021
 Duration: 2 weeks
 
 It's part of _"III CURSO DE EXTENSIÓN UNIVERSITARIA SAMSUNG INNOVATION CAMPUS EN INTELIGENCIA ARTIFICIAL (2021-22)"_ taught by the University of Malaga
+
+# Technologies
+* Python
+* Tensorflow
+* Keras Tuner
+* CV2
+* sklearn
 
 # Specific info
 
