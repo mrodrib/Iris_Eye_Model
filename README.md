@@ -69,7 +69,7 @@ The main diagonal shows the correctly predicted images for each of the classes (
 
 Clone/Download repository
 ```sh
-https://github.com/LorenaDeveloper/Iris_Eye_Model.git
+https://github.com/mrodrib/Iris-Eye_Model.git
 ```
 
 
