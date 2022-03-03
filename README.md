@@ -2,7 +2,7 @@
 
 This project's objective has been to create an artificial intelligence model that helps in the identification of colors.
 
-A [web application](https://github.com/LorenaDeveloper/Iris-Eye/) has also been created for its use.
+A [web application](https://github.com/mrodrib/Iris-Eye/) has also been created for its use.
 
 A balanced dataset (70 images per class) of 11 colors has been used. (available in the repository)
 
@@ -77,4 +77,4 @@ https://github.com/mrodrib/Iris-Eye_Model.git
 Proyect is : _Completed_
 
 # Contact
-Created by [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), fell free to contact me! In collaboration with [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
+Created by [@Mercedes Rodríguez](https://www.linkedin.com/in/mercedes-rodriguez-barbero-20ab3766), fell free to contact me! In collaboration with [@Lorena](https://www.linkedin.com/in/lorena-jiménez-tejada-966611176), [@Marta Trasancos](https://www.linkedin.com/mwlite/in/marta-trasancos-09178063), [@Marta Freire](https://www.linkedin.com/in/marta-freire-painceira-8ba76025) and [@Marina Jiménez](https://www.linkedin.com/in/marinajimenezegea)
